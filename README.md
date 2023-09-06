@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simran Naik</h1>
 <h3 align="center">A Data Wizard from India</h3>
 
-![download](https://github.com/Simran-Naik/Simran-Naik/assets/109715473/c4188c26-e1ab-40b0-bdfb-d0df97385e39)
+![code](https://github.com/Simran-Naik/Simran-Naik/assets/109715473/b18b5448-c87f-4341-b1a7-316173fdba9b)
 
 - 🔭 I’m currently working on **Data Analysis And Science Projects**
 
