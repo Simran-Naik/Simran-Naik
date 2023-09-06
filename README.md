@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Simran Naik</h1>
 <h3 align="center">A Data Wizard from India</h3>
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-![code](https://github.com/Simran-Naik/Simran-Naik/assets/109715473/b18b5448-c87f-4341-b1a7-316173fdba9b)
+<br />
 
-- 🔭 I’m currently working on **Data Analysis And Science Projects**
+- 🔭I’m currently working on **Data Analysis And Science Projects**
 
 - 🌱 I’m currently learning **Machine learning and Cloud services**
 
