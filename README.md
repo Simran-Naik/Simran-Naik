@@ -12,8 +12,10 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@simrannaik253](https://medium.com/@simrannaik253)
+- 📝 Have a look at PowerBi and Tableau Projects on **https://www.novypro.com/profile_projects/simran-naik**
 
+- 📝 My Portfolio Link ***https://koji.to/Simran_Naik*
+ 
 - 💬 Ask me about **Data**
 
 - 📫 You can reach me at **simrannaik253@gmail.com**
