@@ -14,7 +14,7 @@
 
 - 📝 Have a look at PowerBi and Tableau Projects on **https://www.novypro.com/profile_projects/simran-naik**
 
-- 📝 My Portfolio Link **https://koji.to/Simran_Naik*
+- 📝 My Portfolio Link **https://koji.to/Simran_Naik**
  
 - 💬 Ask me about **Data**
 
