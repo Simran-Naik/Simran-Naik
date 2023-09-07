@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Data**
 
-- 📫 How to reach me **simrannaik253@gmail.com**
+- 📫 You can reach me at **simrannaik253@gmail.com**
 
 - ⚡ Fun fact **At the age of 17, I built a Bluetooth-powered car and developed a custom mobile app to control its movements. It was an exhilarating experience, combining my passion for technology and innovation.**
 
