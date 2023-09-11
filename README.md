@@ -9,8 +9,8 @@
 - 🔭I’m currently working on **Data Analysis And Science Projects**
 - 🌱 I’m currently learning **Machine learning and Cloud services**
 - 👯 I’m looking to collaborate on **Data Science Projects**
-- 📝 Have a look at PowerBi and Tableau Projects on 
-- 📝 My Portfolio Link https://www.novypro.com/profile_projects/simran-naik
+- 📝 Have a look at PowerBi and Tableau Projects on https://www.novypro.com/profile_projects/simran-naik
+- 📝 My Portfolio Link 
 - 💬 Ask me about **Data**
 - 📫 You can reach me at **simrannaik253@gmail.com**
 - ⚡ Fun fact **At the age of 17, I built a Bluetooth-powered car and developed a custom mobile app to control its movements. It was an exhilarating experience, combining my passion for technology and innovation.**
