@@ -2,11 +2,12 @@
 <div align="center"> <img src=""> </div>
 <h3 align="center">A Data Wizard from India</h3>
 
-
 <p></p>
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="270" />
 
 <br />
+
+
 
 
 - 🔭I’m currently working on **Data Analysis And Science Projects**
