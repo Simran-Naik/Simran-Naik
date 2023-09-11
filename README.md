@@ -17,7 +17,9 @@
 - 📝 My Portfolio Link 
 - 💬 Ask me about **Data**
 - 📫 You can reach me at **simrannaik253@gmail.com**
-- 📄 Check my Resume here 
+- 📄 Check my Resume here
+- s
+- s
 - ⚡ Fun fact **At the age of 17, I built a Bluetooth-powered car and developed a custom mobile app to control its movements. It was an exhilarating experience, combining my passion for technology and innovation.**
 
 <h3 align="left">Connect with me:</h3>
