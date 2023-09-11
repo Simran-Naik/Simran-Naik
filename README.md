@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Simran Naik</h1>
+<div align="center"> <img src=""> </div>
 <h3 align="center">A Data Wizard from India</h3>
 
+
 <p></p>
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="270" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="270" />
 
 <br />
+
 
 - 🔭I’m currently working on **Data Analysis And Science Projects**
 - 🌱 I’m currently learning **Machine learning and Cloud services**
@@ -13,11 +16,8 @@
 - 📝 My Portfolio Link 
 - 💬 Ask me about **Data**
 - 📫 You can reach me at **simrannaik253@gmail.com**
+- 📄 Check my Resume here 
 - ⚡ Fun fact **At the age of 17, I built a Bluetooth-powered car and developed a custom mobile app to control its movements. It was an exhilarating experience, combining my passion for technology and innovation.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
