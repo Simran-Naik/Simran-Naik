@@ -30,11 +30,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo.png" alt="arduino" width="40" height="40"/></a>
+<a href="https://powerbi.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-768x432.png" alt="powerbi" width="60" height="50"/></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL" width="50" height="50"/></a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/888/888850.png" alt="Excel" width="50" height="50"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="" alt="flask" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
