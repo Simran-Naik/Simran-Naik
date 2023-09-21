@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Naik</h1>
-<div align="center"> <img src=""> </div>
+<div align="center"> <img src="C:\Users\simra\OneDrive\Desktop\DA+DS  2023\INTERVIEWS\linkedin heading.png"> </div>
 <h3 align="center">A Data Wizard from India</h3>
 
 <p></p>
