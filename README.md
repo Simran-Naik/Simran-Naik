@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Machine learning and Cloud services**
 - 👯 I’m looking to collaborate on **Data Science Projects**
 - 📝 Have a look at PowerBi and Tableau Projects on https://www.novypro.com/profile_projects/simran-naik
-- 📝 My Portfolio Link 
+- 📝 My Portfolio Link https://simran-naik.netlify.app/
 - 💬 Ask me about **Data**
 - 📫 You can reach me at **simrannaik253@gmail.com**
 - 📄 Know about my work & experiences 
